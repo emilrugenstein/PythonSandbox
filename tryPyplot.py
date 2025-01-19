@@ -5,5 +5,4 @@ def simpleLine():
     plt.ylabel('some numbers')
     plt.show()
 
-# simpleLine()
-
+simpleLine()
